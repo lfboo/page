@@ -19,3 +19,6 @@ $params = array( <br>
 $page = new PageTool($params);  <br>
 echo $page->getPages();<br>
 ===================end usage=====================
+
+===================effect========================<br />
+上一页 1 ... 5 6 7 8 9 ... 17 下一页
